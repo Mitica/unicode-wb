@@ -1,0 +1,26 @@
+{
+  "name": "unicode-wb",
+  "version": "1.0.0",
+  "description": "Unicode Word Boundary",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitica/unicode-wb.git"
+  },
+  "keywords": [
+    "unicode",
+    "word-boundary"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitica/unicode-wb/issues"
+  },
+  "homepage": "https://github.com/Mitica/unicode-wb#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
+}
